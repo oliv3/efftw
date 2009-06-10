@@ -1,0 +1,4 @@
+
+erlFFTW is an erlang binding for the FFTW library
+
+[ http://www.fftw.org, http://www.erlang.org ]
